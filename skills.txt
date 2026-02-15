@@ -1,0 +1,4 @@
+python
+machine learning
+sql
+power bi
